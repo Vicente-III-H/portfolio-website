@@ -11,3 +11,15 @@ export function LogoName() {
         <div>Name</div>
     )
 }
+
+export function ProjectCard() {
+    return (
+        <div>
+            <div></div>
+            <h2>Name</h2>
+            <ul>
+                <li>Tag</li>
+            </ul>
+        </div>
+    )
+}
