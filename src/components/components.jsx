@@ -5,3 +5,9 @@ export function SocialIconButton() {
         </button>
     )
 }
+
+export function LogoName() {
+    return (
+        <div>Name</div>
+    )
+}
