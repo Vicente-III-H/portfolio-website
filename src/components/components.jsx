@@ -23,3 +23,14 @@ export function ProjectCard() {
         </div>
     )
 }
+
+export function FooterColumn() {
+    return (
+        <div>
+            <h3>Column</h3>
+            <ul>
+                <li>Link</li>
+            </ul>
+        </div>
+    )
+}
